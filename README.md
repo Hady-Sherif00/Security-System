@@ -1,3 +1,3 @@
 # Security-System
-A home security system with features like motion detection and intrusion alerts.
-This project is created using Proteus and Arduino IDE
+A home security system with features like motion, gas, and flame detection alerts.
+This project is created using Proteus/PICSimLab and Arduino IDE.
